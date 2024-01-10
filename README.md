@@ -5,6 +5,7 @@
 * I'm on a journey to create seamless and engaging user experiences.
 * Let's collaborate and code something extraordinary together! 💻🚀
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiva-krishna-dharaju-93464778/)
 
 <!---
 shivakrishnad/shivakrishnad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
